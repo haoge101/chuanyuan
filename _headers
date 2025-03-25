@@ -1,6 +1,11 @@
-/pdf/*
+/pdfs/*
   Access-Control-Allow-Origin: *
   Content-Type: application/pdf
 
-/pdfjs/*
+/web/pdfs/*
+  Access-Control-Allow-Origin: *
+  Content-Type: application/pdf
+
+
+/viewer/*
   Access-Control-Allow-Origin: *
