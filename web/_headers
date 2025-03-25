@@ -1,0 +1,6 @@
+/pdf/*
+  Access-Control-Allow-Origin: *
+  Content-Type: application/pdf
+
+/pdfjs/*
+  Access-Control-Allow-Origin: *
